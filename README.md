@@ -32,17 +32,19 @@ Once loaded, the system will show us the total energy units and the average.
 
 The system will print the battery but taking into account that when a cell has 0 units of charge it will print "-", when it is worth one unit it will print "+" and when it is worth two units it will print "*".
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  ```0 = -```
+<h4>Rules</h4>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  ```1 = +```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```0 = -```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  ```2 = *```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```1 = +```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Example:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```2 = *```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“``` 0 2 1 2 2 1 0 1 2 1 ```”
+<h4>Example:</h4>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“```- * + * * + - + * +```”
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“``` 0 2 1 2 2 1 0 1 2 1 ```”
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“```- * + * * + - + * +```”
 
 <h4>4. Write [ n ] characters</h4>
 
