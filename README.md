@@ -1,5 +1,5 @@
 # One-Dimensional Java array activity
-This is an activity to practice one-dimensional array programming. It consists of creating a battery that charges and discharges depending on the values entered
+This is an activity to practice one-dimensional array programming. It consists of creating a battery that charges and discharges depending on the values entered.
 
 > **<h4>Rules</h4>**
 > 
